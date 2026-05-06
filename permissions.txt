@@ -1,0 +1,5 @@
+# only the owner can read, write and exec logs/ and everything in it:
+chmod 700 -R ~/system-monitor/logs/
+
+# only the owner can read, write and exec archives/ and everything in it:
+chmod 700 -R ~/system-monitor/archives/

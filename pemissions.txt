@@ -1,0 +1,2 @@
+chmod 700 ~/system-monitor/logs/
+chmod 700 ~/system-monitor/archives/
