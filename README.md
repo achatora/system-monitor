@@ -18,10 +18,17 @@ Automated Linux system health monitor that logs disk usage, memory and uptime on
 └── README.md
 
 # Cron jobs
-Set cron jobs to :
-- monitor disk usage 
-- monitor memory 
-- monitor uptime 
+Scheduled the following cron jobs to automate system monitoring:
+
+Log disk usage every hour:
+0 * * * * echo "$(du -sh) - $(date)" >> /home/siralfredthegreat/system-monitor/logs/disk.log
+
+Log memory usage every hour:
+0 * * * * echo "$(free -h) - $(date)" >> /home/siralfredthegreat/system-monitor/logs/memory.log
+
+Log date and uptime every day at 9AM:
+0 9 * * * echo "$(date) - $(uptime)" >> /home/siralfredthegreat/system-monitor/logs/system.log
+
 
 # Backups
 Created backup archives in archives/ for logs/ in order to keep a backup of the logs. 
