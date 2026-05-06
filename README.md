@@ -1,4 +1,4 @@
-##System Monitor 
+## System Monitor 
 
 # Overview 
 Automated Linux system health monitor that logs disk usage, memory and uptime on a scheduled basis using cron, with archived log management and hardened file permissions.
