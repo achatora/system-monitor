@@ -1,0 +1,58 @@
+# Memory Usage (every hour): 
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,6Gi       248Mi       156Mi       1,2Gi       1,0Gi
+Swap:          5,8Gi       1,7Gi       4,1Gi - Mon May  4 12:00:02 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,5Gi       319Mi       134Mi       1,2Gi       1,1Gi
+Swap:          5,8Gi       1,7Gi       4,1Gi - Mon May  4 01:00:02 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,5Gi       372Mi       214Mi       1,2Gi       1,1Gi
+Swap:          5,8Gi       1,9Gi       3,9Gi - Mon May  4 02:00:02 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,5Gi       323Mi       223Mi       1,4Gi       1,1Gi
+Swap:          5,8Gi       2,1Gi       3,7Gi - Mon May  4 03:00:01 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       136Mi       221Mi       1,3Gi       928Mi
+Swap:          5,8Gi       2,1Gi       3,7Gi - Mon May  4 04:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       473Mi       238Mi       1,0Gi       1,0Gi
+Swap:          5,8Gi       1,8Gi       4,0Gi - Mon May  4 05:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       555Mi       221Mi       920Mi       984Mi
+Swap:          5,8Gi       1,8Gi       4,0Gi - Mon May  4 06:00:02 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,8Gi       459Mi       337Mi       1,0Gi       804Mi
+Swap:          5,8Gi       1,9Gi       4,0Gi - Mon May  4 07:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,9Gi       280Mi       446Mi       1,2Gi       738Mi
+Swap:          5,8Gi       1,9Gi       3,9Gi - Mon May  4 08:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       376Mi       213Mi       1,0Gi       921Mi
+Swap:          5,8Gi       1,9Gi       4,0Gi - Mon May  4 09:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       337Mi       206Mi       1,0Gi       905Mi
+Swap:          5,8Gi       1,9Gi       4,0Gi - Mon May  4 10:00:02 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       417Mi       195Mi       970Mi       944Mi
+Swap:          5,8Gi       1,9Gi       3,9Gi - Mon May  4 11:00:03 AM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       187Mi       206Mi       1,2Gi       960Mi
+Swap:          5,8Gi       1,9Gi       4,0Gi - Mon May  4 12:00:03 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,9Gi       250Mi       320Mi       1,1Gi       796Mi
+Swap:          5,8Gi       2,1Gi       3,7Gi - Mon May  4 01:00:02 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,8Gi       498Mi       221Mi       822Mi       851Mi
+Swap:          5,8Gi       2,0Gi       3,8Gi - Mon May  4 02:00:02 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,5Gi       306Mi       206Mi       1,3Gi       1,1Gi
+Swap:          5,8Gi       2,4Gi       3,4Gi - Mon May  4 03:00:01 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,7Gi       399Mi       203Mi       993Mi       934Mi
+Swap:          5,8Gi       2,2Gi       3,6Gi - Mon May  4 04:00:01 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,8Gi       159Mi       222Mi       1,2Gi       866Mi
+Swap:          5,8Gi       2,3Gi       3,5Gi - Mon May  4 05:00:02 PM CEST 2026
+               total        used        free      shared  buff/cache   available
+Mem:           3,6Gi       2,8Gi       283Mi       209Mi       995Mi       819Mi
+Swap:          5,8Gi       2,3Gi       3,5Gi - Mon May  4 06:00:03 PM CEST 2026

@@ -1,0 +1,8 @@
+# Log disk usage to disk.log every hour
+0 * * * * echo "$(du -sh) - $(date) " >> ~/system-monitor/logs/disk.log
+
+# Log disk usage to disk.log every hour
+0 * * * * echo "$(free -h) - $(date)" >> ~/system-monitor/logs/memory.log
+
+# Log date and uptime to system.log every day at 9 AM
+0 9 * * * echo "$(date) - $(uptime)" >> ~/system-monitor/logs/system.log
