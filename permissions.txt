@@ -1,5 +1,15 @@
-# only the owner can read, write and exec logs/ and everything in it:
-chmod 700 -R ~/system-monitor/logs/
+# only the owner can read, write and exec logs/:
+chmod 700 ~/system-monitor/logs/
 
-# only the owner can read, write and exec archives/ and everything in it:
+# files inside logs/
+chmod 600 ~/system-monitor/logs/disk.log
+chmod 600 ~/system-monitor/logs/memory.log 
+chmod 600 ~/system-monitor/logs/system.log
+
+# only the owner can read, write and exec archives/:
 chmod 700 -R ~/system-monitor/archives/
+
+# archives inside archives/ 
+chmod 600 ~/system-monitor/archives/disk_log_backup.tar.gz
+chmod 600 ~/system-monitor/archives/memory_log_backup.tar.gz
+chmod 600 ~/system-monitor/archives/system_log_backup.tar.gz
